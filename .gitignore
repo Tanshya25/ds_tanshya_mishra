@@ -1,0 +1,6 @@
+# Ignore large CSV files only
+csv_files/historical_data.csv
+csv_files/merged_daily_data.csv
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
